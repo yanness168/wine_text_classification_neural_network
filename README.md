@@ -46,9 +46,9 @@ The notebook employs various techniques to improve the models:
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow
-- Other libraries and dependencies (refer to the notebook)
+- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) Python 3.x
+- ![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png) TensorFlow
+- Other dependencies and libraries (refer to the notebook)
 
 ## Usage
 
